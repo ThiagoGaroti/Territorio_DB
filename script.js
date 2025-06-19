@@ -77,24 +77,64 @@
       { nome: "Maria Cecília", id_territorio: 5 },
       { nome: "Jardim Tocandira", id_territorio: 5 },
       { nome: "Beco do Machado", id_territorio: 5 },
+
+      { nome: "Saramandaia", id_territorio: 6 },
+      { nome: "Margaret Tati", id_territorio: 6 },
+      { nome: "Rusario", id_territorio: 6 },
+      { nome: "Redenção", id_territorio: 6 },
+      { nome: "Santos Cosme e Damião", id_territorio: 6 },
+
+
+      { nome: "Bonfim I", id_territorio: 7 },
+      { nome: "Rubina", id_territorio: 7 },
+      { nome: "Big Brother", id_territorio: 7 },
+      { nome: "Santa Luzia", id_territorio: 7 },
+      { nome: "Pastor Euzebio", id_territorio: 7 },
+
+
+      { nome: "Vila Rural", id_territorio: 8 },
+      { nome: "Alto do Céu I", id_territorio: 8 },
+      { nome: "Alto do Céu II", id_territorio: 8 },
+      { nome: "Jardim Sumaré I", id_territorio: 8 },
+      { nome: "Jardim Sumaré II", id_territorio: 8 },
+      { nome: "Córrego da Bacia", id_territorio: 8 },
+
+
+      { nome: "Encanto Igarassu", id_territorio: 9 },
+      { nome: "Jardim Boa Sorte", id_territorio: 9 },
+
+
+      { nome: "Tabatinga", id_territorio: 10 },
+      { nome: "Miguel Arraes", id_territorio: 10 },
+      { nome: "Cortegada", id_territorio: 10 },
+      { nome: "Beco do Machado", id_territorio: 8 },
+
+      { nome: "Sítio dos Marcosl", id_territorio: 11 },
+      { nome: "Caminho das Águas", id_territorio: 11 },
+      { nome: "Marco de Pedra", id_territorio: 11 },
+
+
+      { nome: "Beira Mar I", id_territorio: 12 },
+      { nome: "Mumbaba", id_territorio: 12 },
+
+
+      { nome: "Taepe", id_territorio: 13 },
+      { nome: "Campina de Feira", id_territorio: 13 },
+
+      { nome: "Monjope", id_territorio: 14 },
+      { nome: "Tabuleiro", id_territorio: 14 },
+      { nome: "Santa Helena", id_territorio: 14 },
+
+      { nome: "Bonfim II", id_territorio: 15 },
     ];
 
 /* Nome_Territorio	Bairros_Visualizacao
-Sítio Lira	, ,  ,, , , , , , , ,
-Santo Antonio	, , , 
-Tres Ladeiras
 
-Nova Cruz	, , , , , , , , , 
-Santa Rita	, , , , , , , , , , , 
-Vila Saramandaia	Saramandaia, Margaret Tati, Rusario, Redenção, Santos Cosme e Damião
-Rubina	Bonfim I, Rubina, Big Brother, Santa Luzia, Pastor Euzebio
-Vila Rural	Vila Rural, Alto do Céu I, Alto do Céu II, Jardim Sumaré I, Jardim Sumaré II, Corrego da Bacia
-Encanto Igarassu	Encanto Igarassu, Jardim Boa Sorte
-Tabatinga	Tabatinga, Miguel Arraes, Cortegada
-Sitio Dos Marcos	Sítio dos Marcos, Caminho das Águas, Marco de Pedra
-Beira Mar I	Beira Mar I, Mumbaba
-Centro	Taepe, Campina de Feira
-Monjope	Monjope, Tabuleiro, Santa Helena
+
+Sitio Dos Marcos	, , 
+Beira Mar I	, 
+Centro	, 
+Monjope	, , 
 Bonfim II	Bonfim II
 */
 
