@@ -1,8 +1,8 @@
  const territorios = [
       { id: 1, nome: "Agamenon" },
       { id: 2, nome: "Sítio Lira" },
-      { id: 3, nome: "Santo Antônio" },
-      { id: 4, nome: "Três Ladeiras" },
+      { id: 3, nome: "Três Ladeiras" },
+      { id: 4, nome: "Santo Antônio" },
       { id: 5, nome: "Nova Cruz" },
       { id: 6, nome: "Santa Rita" },
       { id: 7, nome: "Vila Saramandaia" },
@@ -50,9 +50,10 @@
 
 
       { nome: "Três Ladeiras", id_territorio: 3 },
-      { nome: "Ana de Albuquerque", id_territorio: 3 },
-      { nome: "Pancó", id_territorio: 3 },
-      { nome: "Jardim Angélica", id_territorio: 3 },
+
+      { nome: "Ana de Albuquerque", id_territorio: 16 },
+      { nome: "Pancó", id_territorio: 16 },
+      { nome: "Jardim Angélica", id_territorio: 16 },
       
       { nome: "Nova Cruz I", id_territorio: 4 },
       { nome: "Nova Cruz II", id_territorio: 4 },
@@ -107,7 +108,7 @@
       { nome: "Tabatinga", id_territorio: 10 },
       { nome: "Miguel Arraes", id_territorio: 10 },
       { nome: "Cortegada", id_territorio: 10 },
-      { nome: "Beco do Machado", id_territorio: 8 },
+      { nome: "Beco do Machado", id_territorio: 10 },
 
       { nome: "Sítio dos Marcosl", id_territorio: 11 },
       { nome: "Caminho das Águas", id_territorio: 11 },
